@@ -54,12 +54,12 @@ venv\Scripts\activate</pre>
 ## 4. Run the app
 <pre>python smart_pendrive_butler.py</pre>
 
-# Building the .exe (Advanced, optional)
+# Building the `.exe` (Advanced, optional)
 We can use **Pyinstaller** for packaging:
 <pre>pip install pyinstaller
 pyinstaller SmartPendriveButler.spec</pre>
 
-The compiled **.exe** will appear in the *dist/SmartPendriveButler/* folder.
+The compiled `.exe` will appear in the *dist/SmartPendriveButler/* folder.
 
 # Dependencies
 | Package         | Purpose                                                     |
