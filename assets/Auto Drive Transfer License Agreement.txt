@@ -1,0 +1,13 @@
+Auto Drive Transfer License Agreement
+Copyright © 2025 Quesz Quesadillas (aka kw3z). All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, modify, and distribute modified or unmodified copies of the Software, subject to the following conditions:
+
+1. Ownership
+All rights, title, and interest in the original Software remain with the original author.
+2. Attribution
+Any modified version must include a prominent notice stating that it has been modified and must give credit to the original author.
+3. No Liability
+The Software is provided "AS IS," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+If you do not agree to these terms, do not install or use the software.
