@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?logo=windows)
 ![Python](https://img.shields.io/badge/python-3.10%2B-green?logo=python)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+[![License](https://img.shields.io/badge/license-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 **Auto Drive Transfer** is a Windows utility that **copies files and folders to your USB drive** with optional queuing.  
